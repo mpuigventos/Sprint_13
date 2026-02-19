@@ -1,0 +1,948 @@
+,Codi_Municipi,Municipi,Comarca,Província
+0,250019,Abella de la Conca,Pallars Jussà,Lleida
+1,80018,Abrera,Baix Llobregat,Barcelona
+2,250030,Agramunt,Urgell,Lleida
+3,80023,Aguilar de Segarra,Bages,Barcelona
+4,170010,Agullana,Alt Empordà,Girona
+5,80142,Aiguafreda,Osona,Barcelona/Girona (3)
+6,430017,Aiguamúrcia,Alt Camp,Tarragona
+7,170025,Aiguaviva,Gironès,Girona
+8,250387,Aitona,Segrià,Lleida
+9,250045,"Alamús, els",Segrià,Lleida
+10,250061,"Albagés, l'",Garrigues,Lleida
+11,170031,Albanyà,Alt Empordà,Girona
+12,250077,Albatàrrec,Segrià,Lleida
+13,250083,Albesa,Noguera,Lleida
+14,250096,"Albi, l'",Garrigues,Lleida
+15,430022,Albinyana,Baix Penedès,Tarragona
+16,430038,"Albiol, l'",Baix Camp,Tarragona
+17,170046,Albons,Baix Empordà,Girona
+18,430043,Alcanar,Montsià,Tarragona
+19,250100,Alcanó,Segrià,Lleida
+20,250117,Alcarràs,Segrià,Lleida
+21,250122,Alcoletge,Segrià,Lleida
+22,430056,Alcover,Alt Camp,Tarragona
+23,439044,"Aldea, l'",Baix Ebre,Tarragona
+24,430069,Aldover,Baix Ebre,Tarragona
+25,430075,"Aleixar, l'",Baix Camp,Tarragona
+26,80039,Alella,Maresme,Barcelona
+27,430081,Alfara de Carles,Baix Ebre,Tarragona
+28,250138,Alfarràs,Segrià,Lleida
+29,430094,Alforja,Baix Camp,Tarragona
+30,250143,Alfés,Segrià,Lleida
+31,250156,Algerri,Noguera,Lleida
+32,250169,Alguaire,Segrià,Lleida
+33,250175,Alins,Pallars Sobirà,Lleida
+34,430108,Alió,Alt Camp,Tarragona
+35,250194,Almacelles,Segrià,Lleida
+36,250208,Almatret,Segrià,Lleida
+37,250215,Almenar,Segrià,Lleida
+38,430115,Almoster,Baix Camp,Tarragona
+39,170062,Alp,Cerdanya,Girona/Lleida (2)
+40,80044,Alpens,Lluçanès,Barcelona
+41,250236,Alpicat,Segrià,Lleida
+42,250241,Alt Àneu,Pallars Sobirà,Lleida
+43,430120,Altafulla,Tarragonès,Tarragona
+44,250058,Alàs i Cerc,Alt Urgell,Lleida
+45,250220,Alòs de Balaguer,Noguera,Lleida
+46,170078,Amer,Selva,Girona/Barcelona (4)
+47,430136,"Ametlla de Mar, l'",Baix Ebre,Tarragona
+48,80057,"Ametlla del Vallès, l'",Vallès Oriental,Barcelona
+49,439060,"Ampolla, l'",Baix Ebre,Tarragona
+50,430141,Amposta,Montsià,Tarragona
+51,250273,Anglesola,Urgell,Lleida
+52,170084,Anglès,Selva,Girona/Barcelona (4)
+53,250292,Arbeca,Garrigues,Lleida
+54,430154,Arbolí,Baix Camp,Tarragona
+55,430167,"Arboç, l'",Baix Penedès,Tarragona
+56,170097,Arbúcies,Selva,Girona/Barcelona (4)
+57,80060,Arenys de Mar,Maresme,Barcelona
+58,80076,Arenys de Munt,Maresme,Barcelona
+59,170101,Argelaguer,Garrotxa,Girona
+60,430173,"Argentera, l'",Baix Camp,Tarragona
+61,80095,Argentona,Maresme,Barcelona
+62,80082,Argençola,Anoia,Barcelona
+63,170118,"Armentera, l'",Alt Empordà,Girona
+64,430189,Arnes,Terra Alta,Tarragona
+65,250313,Arres,Aran,Lleida
+66,250328,Arsèguel,Alt Urgell,Lleida
+67,250334,Artesa de Lleida,Segrià,Lleida
+68,250349,Artesa de Segre,Noguera,Lleida
+69,80109,Artés,Bages,Barcelona
+70,430192,Ascó,Ribera d'Ebre,Tarragona
+71,250365,Aspa,Segrià,Lleida
+72,250371,"Avellanes i Santa Linya, les",Noguera,Lleida
+73,170123,Avinyonet de Puigventós,Alt Empordà,Girona
+74,80137,Avinyonet del Penedès,Alt Penedès,Barcelona
+75,80121,Avinyó,Bages,Barcelona
+76,80116,Avià,Berguedà,Barcelona/Lleida (1)
+77,80155,Badalona,Barcelonès,Barcelona
+78,89045,Badia del Vallès,Vallès Occidental,Barcelona
+79,80168,Bagà,Berguedà,Barcelona/Lleida (1)
+80,250390,Baix Pallars,Pallars Sobirà,Lleida
+81,250404,Balaguer,Noguera,Lleida
+82,80174,Balenyà,Osona,Barcelona/Girona (3)
+83,80180,Balsareny,Bages,Barcelona
+84,430206,Banyeres del Penedès,Baix Penedès,Tarragona
+85,170157,Banyoles,Pla de l'Estany,Girona
+86,250411,Barbens,Pla d'Urgell,Lleida
+87,430213,Barberà de la Conca,Conca de Barberà,Tarragona
+88,82520,Barberà del Vallès,Vallès Occidental,Barcelona
+89,80193,Barcelona,Barcelonès,Barcelona
+90,250426,"Baronia de Rialb, la",Noguera,Lleida
+91,250447,Bassella,Alt Urgell,Lleida
+92,430228,Batea,Terra Alta,Tarragona
+93,250450,Bausen,Aran,Lleida
+94,80207,Begues,Baix Llobregat,Barcelona
+95,170139,Begur,Baix Empordà,Girona
+96,250463,Belianes,Urgell,Lleida
+97,250485,Bell-lloc d'Urgell,Pla d'Urgell,Lleida
+98,251706,Bellaguarda,Garrigues,Lleida
+99,170182,Bellcaire d'Empordà,Baix Empordà,Girona
+100,250479,Bellcaire d'Urgell,Noguera,Lleida
+101,250498,Bellmunt d'Urgell,Noguera,Lleida
+102,430234,Bellmunt del Priorat,Priorat,Tarragona
+103,80214,Bellprat,Anoia,Barcelona
+104,250501,Bellpuig,Urgell,Lleida
+105,430249,Bellvei,Baix Penedès,Tarragona
+106,250518,Bellver de Cerdanya,Cerdanya,Girona/Lleida (2)
+107,250523,Bellvís,Pla d'Urgell,Lleida
+108,250539,Benavent de Segrià,Segrià,Lleida
+109,430252,Benifallet,Baix Ebre,Tarragona
+110,430265,Benissanet,Ribera d'Ebre,Tarragona
+111,80229,Berga,Berguedà,Barcelona/Lleida (1)
+112,170195,Besalú,Garrotxa,Girona
+113,170209,Bescanó,Gironès,Girona
+114,170216,Beuda,Garrotxa,Girona
+115,80235,Bigues i Riells del Fai,Vallès Oriental,Barcelona
+116,250557,Biosca,Solsonès,Lleida
+117,170221,"Bisbal d'Empordà, la",Baix Empordà,Girona
+118,430287,"Bisbal del Penedès, la",Baix Penedès,Tarragona
+119,172348,Biure,Alt Empordà,Girona
+120,430290,Blancafort,Conca de Barberà,Tarragona
+121,170237,Blanes,Selva,Girona/Barcelona (4)
+122,170293,Boadella i les Escaules,Alt Empordà,Girona
+123,170242,Bolvir,Cerdanya,Girona/Lleida (2)
+124,430304,Bonastre,Baix Penedès,Tarragona
+125,170255,Bordils,Gironès,Girona
+126,250582,"Borges Blanques, les",Garrigues,Lleida
+127,430311,"Borges del Camp, les",Baix Camp,Tarragona
+128,170268,Borrassà,Alt Empordà,Girona
+129,80240,Borredà,Berguedà,Barcelona/Lleida (1)
+130,250595,Bossòst,Aran,Lleida
+131,430326,Bot,Terra Alta,Tarragona
+132,430332,Botarell,Baix Camp,Tarragona
+133,250560,Bovera,Garrigues,Lleida
+134,170274,Breda,Selva,Girona/Barcelona (4)
+135,80253,"Bruc, el",Anoia,Barcelona
+136,80266,"Brull, el",Osona,Barcelona/Girona (3)
+137,170280,Brunyola i Sant Martí Sapresa,Selva,Girona/Barcelona (4)
+138,430347,Bràfim,Alt Camp,Tarragona
+139,170160,Bàscara,Alt Empordà,Girona
+140,250576,"Bòrdes, Es",Aran,Lleida
+141,430350,Cabacés,Priorat,Tarragona
+142,250609,Cabanabona,Noguera,Lleida
+143,170314,Cabanelles,Alt Empordà,Girona
+144,170307,Cabanes,Alt Empordà,Girona
+145,80272,"Cabanyes, les",Alt Penedès,Barcelona
+146,430363,Cabra del Camp,Alt Camp,Tarragona
+147,80288,Cabrera d'Anoia,Anoia,Barcelona
+148,80291,Cabrera de Mar,Maresme,Barcelona
+149,80305,Cabrils,Maresme,Barcelona
+150,250616,Cabó,Alt Urgell,Lleida
+151,170329,Cadaqués,Alt Empordà,Girona
+152,80312,Calaf,Anoia,Barcelona
+153,430379,Calafell,Baix Penedès,Tarragona
+154,80348,Calders,Moianès,Barcelona
+155,80327,Caldes d'Estrac,Maresme,Barcelona
+156,170335,Caldes de Malavella,Selva,Girona/Barcelona (4)
+157,80333,Caldes de Montbui,Vallès Oriental,Barcelona
+158,80351,Calella,Maresme,Barcelona
+159,80370,Calldetenes,Osona,Barcelona/Girona (3)
+160,80386,Callús,Bages,Barcelona
+161,80364,Calonge de Segarra,Anoia,Barcelona
+162,170340,Calonge i Sant Antoni,Baix Empordà,Girona
+163,250621,Camarasa,Noguera,Lleida
+164,439039,Camarles,Baix Ebre,Tarragona
+165,430385,Cambrils,Baix Camp,Tarragona
+166,170366,Campdevànol,Ripollès,Girona
+167,170372,Campelles,Ripollès,Girona
+168,80399,Campins,Vallès Oriental,Barcelona
+169,170388,Campllong,Gironès,Girona
+170,170391,Camprodon,Ripollès,Girona
+171,170353,Camós,Pla de l'Estany,Girona
+172,250637,Canejan,Aran,Lleida
+173,170405,Canet d'Adri,Gironès,Girona
+174,80403,Canet de Mar,Maresme,Barcelona
+175,439076,"Canonja, la",Tarragonès,Tarragona
+176,80410,Canovelles,Vallès Oriental,Barcelona
+177,170412,Cantallops,Alt Empordà,Girona
+178,80431,Canyelles,Garraf,Barcelona
+179,430398,Capafonts,Baix Camp,Tarragona
+180,80446,Capellades,Anoia,Barcelona
+181,170427,Capmany,Alt Empordà,Girona
+182,80459,Capolat,Berguedà,Barcelona/Lleida (1)
+183,430402,Capçanes,Priorat,Tarragona
+184,80462,Cardedeu,Vallès Oriental,Barcelona
+185,80478,Cardona,Bages,Barcelona
+186,80484,Carme,Anoia,Barcelona
+187,430419,Caseres,Terra Alta,Tarragona
+188,80497,Casserres,Berguedà,Barcelona/Lleida (1)
+189,170448,Cassà de la Selva,Gironès,Girona
+190,170486,"Castell d'Aro, Platja d'Aro i s'Agaró",Baix Empordà,Girona
+191,259046,Castell de Mur,Pallars Jussà,Lleida
+192,80575,Castell de l'Areny,Berguedà,Barcelona/Lleida (1)
+193,250642,Castellar de la Ribera,Solsonès,Lleida
+194,80522,Castellar de n'Hug,Berguedà,Barcelona/Lleida (1)
+195,80500,Castellar del Riu,Berguedà,Barcelona/Lleida (1)
+196,80517,Castellar del Vallès,Vallès Occidental,Barcelona
+197,80538,Castellbell i el Vilar,Bages,Barcelona
+198,80543,Castellbisbal,Vallès Occidental,Barcelona
+199,80556,Castellcir,Moianès,Barcelona
+200,250674,Castelldans,Garrigues,Lleida
+201,80569,Castelldefels,Baix Llobregat,Barcelona
+202,80581,Castellet i la Gornal,Alt Penedès,Barcelona
+203,80608,Castellfollit de Riubregós,Anoia,Barcelona
+204,170464,Castellfollit de la Roca,Garrotxa,Girona
+205,80594,Castellfollit del Boix,Bages,Barcelona
+206,80615,Castellgalí,Bages,Barcelona
+207,80620,Castellnou de Bages,Bages,Barcelona
+208,250680,Castellnou de Seana,Pla d'Urgell,Lleida
+209,80636,Castellolí,Anoia,Barcelona
+210,250707,Castellserà,Urgell,Lleida
+211,80641,Castellterçol,Moianès,Barcelona
+212,430424,Castellvell del Camp,Baix Camp,Tarragona
+213,80667,Castellví de Rosanes,Baix Llobregat,Barcelona
+214,80654,Castellví de la Marca,Alt Penedès,Barcelona
+215,170470,Castelló d'Empúries,Alt Empordà,Girona
+216,250693,Castelló de Farfanya,Noguera,Lleida
+217,430430,"Catllar, el",Tarragonès,Tarragona
+218,250714,Cava,Alt Urgell,Lleida
+219,171899,"Cellera de Ter, la",Selva,Girona/Barcelona (4)
+220,170499,Celrà,Gironès,Girona
+221,80673,Centelles,Osona,Barcelona/Girona (3)
+222,82687,Cercs,Berguedà,Barcelona/Lleida (1)
+223,82665,Cerdanyola del Vallès,Vallès Occidental,Barcelona
+224,80689,Cervelló,Baix Llobregat,Barcelona
+225,250729,Cervera,Segarra,Lleida
+226,170502,Cervià de Ter,Gironès,Girona
+227,250735,Cervià de les Garrigues,Garrigues,Lleida
+228,170519,Cistella,Alt Empordà,Girona
+229,250740,Ciutadilla,Urgell,Lleida
+230,250753,Clariana de Cardener,Solsonès,Lleida
+231,250766,"Cogul, el",Garrigues,Lleida
+232,170545,Colera,Alt Empordà,Girona
+233,250772,Coll de Nargó,Alt Urgell,Lleida
+234,80692,Collbató,Baix Llobregat,Barcelona
+235,430458,Colldejou,Baix Camp,Tarragona
+236,80706,Collsuspina,Moianès,Barcelona
+237,170558,Colomers,Baix Empordà,Girona
+238,251636,"Coma i la Pedra, la",Solsonès,Lleida
+239,251615,Conca de Dalt,Pallars Jussà,Lleida
+240,430461,Conesa,Conca de Barberà,Tarragona
+241,430477,Constantí,Tarragonès,Tarragona
+242,80713,Copons,Anoia,Barcelona
+243,430483,Corbera d'Ebre,Terra Alta,Tarragona
+244,80728,Corbera de Llobregat,Baix Llobregat,Barcelona
+245,250788,Corbins,Segrià,Lleida
+246,80734,Cornellà de Llobregat,Baix Llobregat,Barcelona
+247,170561,Cornellà del Terri,Pla de l'Estany,Girona
+248,430496,Cornudella de Montsant,Priorat,Tarragona
+249,170577,Corçà,Baix Empordà,Girona
+250,430509,Creixell,Tarragonès,Tarragona
+251,170583,Crespià,Pla de l'Estany,Girona
+252,179011,"Cruïlles, Monells i Sant Sadurní de l'Heura",Baix Empordà,Girona
+253,80749,Cubelles,Garraf,Barcelona
+254,250791,Cubells,Noguera,Lleida
+255,430516,Cunit,Baix Penedès,Tarragona
+256,80425,Cànoves i Samalús,Vallès Oriental,Barcelona
+257,170600,Darnius,Alt Empordà,Girona
+258,170617,Das,Cerdanya,Girona/Lleida (2)
+259,439018,Deltebre,Baix Ebre,Tarragona
+260,80752,Dosrius,Maresme,Barcelona
+261,430537,Duesaigües,Baix Camp,Tarragona
+262,170622,"Escala, l'",Alt Empordà,Girona
+263,80765,Esparreguera,Baix Llobregat,Barcelona
+264,170638,Espinelves,Osona,Barcelona/Girona (3)
+265,250812,"Espluga Calba, l'",Garrigues,Lleida
+266,430542,"Espluga de Francolí, l'",Conca de Barberà,Tarragona
+267,80771,Esplugues de Llobregat,Baix Llobregat,Barcelona
+268,170643,Espolla,Alt Empordà,Girona
+269,170656,Esponellà,Pla de l'Estany,Girona
+270,250827,Espot,Pallars Sobirà,Lleida
+271,80787,"Espunyola, l'",Berguedà,Barcelona/Lleida (1)
+272,82541,"Esquirol, l'",Osona,Barcelona/Girona (3)
+273,250886,Estamariu,Alt Urgell,Lleida
+274,80790,"Estany, l'",Moianès,Barcelona
+275,250851,Estaràs,Segarra,Lleida
+276,250864,Esterri d'Àneu,Pallars Sobirà,Lleida
+277,250870,Esterri de Cardós,Pallars Sobirà,Lleida
+278,430555,Falset,Priorat,Tarragona
+279,170059,"Far d'Empordà, el",Alt Empordà,Girona
+280,250899,Farrera,Pallars Sobirà,Lleida
+281,430568,"Fatarella, la",Terra Alta,Tarragona
+282,430574,"Febró, la",Baix Camp,Tarragona
+283,81347,Figaró-Montmany,Vallès Oriental,Barcelona
+284,430580,"Figuera, la",Priorat,Tarragona
+285,170669,Figueres,Alt Empordà,Girona
+286,430593,Figuerola del Camp,Alt Camp,Tarragona
+287,170675,Flaçà,Gironès,Girona
+288,430607,Flix,Ribera d'Ebre,Tarragona
+289,250925,"Floresta, la",Garrigues,Lleida
+290,80811,Fogars de Montclús,Vallès Oriental,Barcelona
+291,80826,Fogars de la Selva,Selva,Girona/Barcelona (4)
+292,170681,Foixà,Baix Empordà,Girona
+293,80832,Folgueroles,Osona,Barcelona/Girona (3)
+294,250931,Fondarella,Pla d'Urgell,Lleida
+295,80847,Fonollosa,Bages,Barcelona
+296,80850,Font-rubí,Alt Penedès,Barcelona
+297,170694,Fontanals de Cerdanya,Cerdanya,Girona/Lleida (2)
+298,170708,Fontanilles,Baix Empordà,Girona
+299,170715,Fontcoberta,Pla de l'Estany,Girona
+300,250946,Foradada,Noguera,Lleida
+301,179026,Forallac,Baix Empordà,Girona
+302,170736,Fornells de la Selva,Gironès,Girona
+303,170741,Fortià,Alt Empordà,Girona
+304,430614,Forès,Conca de Barberà,Tarragona
+305,80863,"Franqueses del Vallès, les",Vallès Oriental,Barcelona
+306,430629,Freginals,Montsià,Tarragona
+307,250962,"Fuliola, la",Urgell,Lleida
+308,250978,Fulleda,Garrigues,Lleida
+309,80804,Fígols,Berguedà,Barcelona/Lleida (1)
+310,259084,Fígols i Alinyà,Alt Urgell,Lleida
+311,80902,Gaià,Bages,Barcelona
+312,430635,"Galera, la",Montsià,Tarragona
+313,80879,Gallifa,Vallès Occidental,Barcelona
+314,430640,Gandesa,Terra Alta,Tarragona
+315,430653,Garcia,Ribera d'Ebre,Tarragona
+316,430666,"Garidells, els",Alt Camp,Tarragona
+317,80885,"Garriga, la",Vallès Oriental,Barcelona
+318,170767,Garrigoles,Baix Empordà,Girona
+319,170773,Garriguella,Alt Empordà,Girona
+320,170754,Garrigàs,Alt Empordà,Girona
+321,250984,Gavet de la Conca,Pallars Jussà,Lleida
+322,80898,Gavà,Baix Llobregat,Barcelona
+323,80919,Gelida,Alt Penedès,Barcelona
+324,170789,Ger,Cerdanya,Girona/Lleida (2)
+325,259123,Gimenells i el Pla de la Font,Segrià,Lleida
+326,430672,Ginestar,Ribera d'Ebre,Tarragona
+327,170792,Girona,Gironès,Girona
+328,80924,Gironella,Berguedà,Barcelona/Lleida (1)
+329,80930,Gisclareny,Berguedà,Barcelona/Lleida (1)
+330,430688,Godall,Montsià,Tarragona
+331,250997,Golmés,Pla d'Urgell,Lleida
+332,170806,Gombrèn,Ripollès,Girona
+333,80945,"Granada, la",Alt Penedès,Barcelona
+334,251018,"Granadella, la",Garrigues,Lleida
+335,80958,Granera,Moianès,Barcelona
+336,251023,"Granja d'Escarp, la",Segrià,Lleida
+337,80961,Granollers,Vallès Oriental,Barcelona
+338,251039,Granyanella,Segarra,Lleida
+339,251044,Granyena de Segarra,Segarra,Lleida
+340,251057,Granyena de les Garrigues,Garrigues,Lleida
+341,430691,Gratallops,Priorat,Tarragona
+342,80977,Gualba,Vallès Oriental,Barcelona
+343,170813,Gualta,Baix Empordà,Girona
+344,80996,Guardiola de Berguedà,Berguedà,Barcelona/Lleida (1)
+345,430705,"Guiamets, els",Priorat,Tarragona
+346,170828,Guils de Cerdanya,Cerdanya,Girona/Lleida (2)
+347,251095,Guimerà,Urgell,Lleida
+348,259031,"Guingueta d'Àneu, la",Pallars Sobirà,Lleida
+349,251109,Guissona,Segarra,Lleida
+350,251116,Guixers,Solsonès,Lleida
+351,81000,Gurb,Osona,Barcelona/Girona (3)
+352,251001,Gósol,Berguedà,Barcelona/Lleida (1)
+353,430712,Horta de Sant Joan,Terra Alta,Tarragona
+354,81017,"Hospitalet de Llobregat, l'",Barcelonès,Barcelona
+355,81629,"Hostalets de Pierola, els",Anoia,Barcelona
+356,170834,Hostalric,Selva,Girona/Barcelona (4)
+357,81022,Igualada,Anoia,Barcelona
+358,251155,Isona i Conca Dellà,Pallars Jussà,Lleida
+359,170849,Isòvol,Cerdanya,Girona/Lleida (2)
+360,251137,Ivars d'Urgell,Pla d'Urgell,Lleida
+361,251121,Ivars de Noguera,Noguera,Lleida
+362,251142,Ivorra,Segarra,Lleida
+363,170852,Jafre,Baix Empordà,Girona
+364,170865,"Jonquera, la",Alt Empordà,Girona
+365,81038,Jorba,Anoia,Barcelona
+366,259101,Josa i Tuixén,Alt Urgell,Lleida
+367,170871,Juià,Gironès,Girona
+368,251180,Juncosa,Garrigues,Lleida
+369,251193,Juneda,Garrigues,Lleida
+370,430271,La Bisbal de Montsant,Priorat,Tarragona
+371,251214,Les,Aran,Lleida
+372,251229,Linyola,Pla d'Urgell,Lleida
+373,81043,"Llacuna, la",Anoia,Barcelona
+374,251235,Lladorre,Pallars Sobirà,Lleida
+375,251240,Lladurs,Solsonès,Lleida
+376,170887,Lladó,Alt Empordà,Girona
+377,81056,"Llagosta, la",Vallès Oriental,Barcelona
+378,170890,Llagostera,Gironès,Girona
+379,170904,Llambilles,Gironès,Girona
+380,170911,Llanars,Ripollès,Girona
+381,170926,Llançà,Alt Empordà,Girona
+382,251253,Llardecans,Segrià,Lleida
+383,251266,Llavorsí,Pallars Sobirà,Lleida
+384,251207,Lleida,Segrià,Lleida
+385,170932,Llers,Alt Empordà,Girona
+386,251272,Lles de Cerdanya,Cerdanya,Girona/Lleida (2)
+387,251288,Llimiana,Pallars Jussà,Lleida
+388,81069,Llinars del Vallès,Vallès Oriental,Barcelona
+389,81075,Lliçà d'Amunt,Vallès Oriental,Barcelona
+390,81081,Lliçà de Vall,Vallès Oriental,Barcelona
+391,430727,"Lloar, el",Priorat,Tarragona
+392,251291,Llobera,Solsonès,Lleida
+393,430733,Llorac,Conca de Barberà,Tarragona
+394,430748,Llorenç del Penedès,Baix Penedès,Tarragona
+395,170950,Lloret de Mar,Selva,Girona/Barcelona (4)
+396,170963,"Llosses, les",Ripollès,Girona
+397,81094,Lluçà,Lluçanès,Barcelona
+398,170947,Llívia,Cerdanya,Girona/Lleida (2)
+399,170979,Madremanya,Gironès,Girona
+400,251333,Maials,Segrià,Lleida
+401,170985,Maià de Montcal,Garrotxa,Girona
+402,251305,Maldà,Urgell,Lleida
+403,81108,Malgrat de Mar,Maresme,Barcelona
+404,81115,Malla,Osona,Barcelona/Girona (3)
+405,81120,Manlleu,Osona,Barcelona/Girona (3)
+406,81136,Manresa,Bages,Barcelona
+407,430751,Margalef,Priorat,Tarragona
+408,82423,Marganell,Bages,Barcelona
+409,81141,Martorell,Baix Llobregat,Barcelona
+410,81154,Martorelles,Vallès Oriental,Barcelona
+411,430764,Marçà,Priorat,Tarragona
+412,430770,Mas de Barberans,Montsià,Tarragona
+413,171002,Masarac i Vilarnadal,Alt Empordà,Girona
+414,430786,Masdenverge,Montsià,Tarragona
+415,81167,"Masies de Roda, les",Osona,Barcelona/Girona (3)
+416,81173,"Masies de Voltregà, les",Osona,Barcelona/Girona (3)
+417,430799,Masllorenç,Baix Penedès,Tarragona
+418,81189,"Masnou, el",Maresme,Barcelona
+419,430810,Maspujols,Baix Camp,Tarragona
+420,81192,Masquefa,Anoia,Barcelona
+421,430825,"Masroig, el",Priorat,Tarragona
+422,251312,Massalcoreig,Segrià,Lleida
+423,171019,Massanes,Selva,Girona/Barcelona (4)
+424,251327,Massoteres,Segarra,Lleida
+425,430803,"Masó, la",Alt Camp,Tarragona
+426,81206,Matadepera,Vallès Occidental,Barcelona
+427,81213,Mataró,Maresme,Barcelona
+428,171024,Maçanet de Cabrenys,Alt Empordà,Girona
+429,171030,Maçanet de la Selva,Selva,Girona/Barcelona (4)
+430,81228,Mediona,Alt Penedès,Barcelona
+431,251348,Menàrguens,Noguera,Lleida
+432,170998,Meranges,Cerdanya,Girona/Lleida (2)
+433,171058,Mieres,Garrotxa,Girona
+434,430831,"Milà, el",Alt Camp,Tarragona
+435,251351,Miralcamp,Pla d'Urgell,Lleida
+436,430846,Miravet,Ribera d'Ebre,Tarragona
+437,81385,Moià,Moianès,Barcelona
+438,430859,"Molar, el",Priorat,Tarragona
+439,81234,Molins de Rei,Baix Llobregat,Barcelona
+440,251370,Mollerussa,Pla d'Urgell,Lleida
+441,171061,Mollet de Peralada,Alt Empordà,Girona
+442,81249,Mollet del Vallès,Vallès Oriental,Barcelona
+443,171077,Molló,Ripollès,Girona
+444,251364,"Molsosa, la",Solsonès,Lleida
+445,81287,Monistrol de Calders,Moianès,Barcelona
+446,81271,Monistrol de Montserrat,Bages,Barcelona
+447,430918,Mont-ral,Alt Camp,Tarragona
+448,171100,Mont-ras,Baix Empordà,Girona
+449,430923,Mont-roig del Camp,Baix Camp,Tarragona
+450,171096,Montagut i Oix,Garrotxa,Girona
+451,430862,Montblanc,Conca de Barberà,Tarragona
+452,430884,Montbrió del Camp,Baix Camp,Tarragona
+453,81252,Montcada i Reixac,Vallès Occidental,Barcelona
+454,81304,Montclar,Berguedà,Barcelona/Lleida (1)
+455,251399,Montellà i Martinet,Cerdanya,Girona/Lleida (2)
+456,81311,Montesquiu,Osona,Barcelona/Girona (3)
+457,251403,Montferrer i Castellbò,Alt Urgell,Lleida
+458,430897,Montferri,Alt Camp,Tarragona
+459,251386,Montgai,Noguera,Lleida
+460,81265,Montgat,Maresme,Barcelona
+461,81326,Montmajor,Berguedà,Barcelona/Lleida (1)
+462,81332,Montmaneu,Anoia,Barcelona
+463,430901,"Montmell, el",Baix Penedès,Tarragona
+464,81350,Montmeló,Vallès Oriental,Barcelona
+465,251425,Montoliu de Lleida,Segrià,Lleida
+466,251410,Montoliu de Segarra,Segarra,Lleida
+467,251431,Montornès de Segarra,Segarra,Lleida
+468,81363,Montornès del Vallès,Vallès Oriental,Barcelona
+469,81379,Montseny,Vallès Oriental,Barcelona
+470,430957,"Morell, el",Tarragonès,Tarragona
+471,430960,"Morera de Montsant, la",Priorat,Tarragona
+472,81290,Muntanyola,Osona,Barcelona/Girona (3)
+473,81398,Mura,Bages,Barcelona
+474,430939,Móra d'Ebre,Ribera d'Ebre,Tarragona
+475,430944,Móra la Nova,Ribera d'Ebre,Tarragona
+476,251459,Nalec,Urgell,Lleida
+477,250254,Naut Aran,Aran,Lleida
+478,81402,Navarcles,Bages,Barcelona
+479,171117,Navata,Alt Empordà,Girona
+480,81419,Navàs,Bages,Barcelona
+481,251462,Navès,Solsonès,Lleida
+482,81424,"Nou de Berguedà, la",Berguedà,Barcelona/Lleida (1)
+483,430976,"Nou de Gaià, la",Tarragonès,Tarragona
+484,430982,Nulles,Alt Camp,Tarragona
+485,251484,Odèn,Solsonès,Lleida
+486,171122,Ogassa,Ripollès,Girona
+487,81461,Olesa de Bonesvalls,Alt Penedès,Barcelona
+488,81477,Olesa de Montserrat,Baix Llobregat,Barcelona
+489,251497,Oliana,Alt Urgell,Lleida
+490,251500,Oliola,Noguera,Lleida
+491,251517,Olius,Solsonès,Lleida
+492,81483,Olivella,Garraf,Barcelona
+493,81496,Olost,Lluçanès,Barcelona
+494,171143,Olot,Garrotxa,Girona
+495,251522,"Oluges, les",Segarra,Lleida
+496,81445,Olvan,Berguedà,Barcelona/Lleida (1)
+497,81458,Olèrdola,Alt Penedès,Barcelona
+498,251538,"Omellons, els",Garrigues,Lleida
+499,251543,"Omells de na Gaia, els",Urgell,Lleida
+500,171156,Ordis,Alt Empordà,Girona
+501,251556,Organyà,Alt Urgell,Lleida
+502,81516,Oristà,Lluçanès,Barcelona
+503,81521,Orpí,Anoia,Barcelona
+504,81509,Orís,Osona,Barcelona/Girona (3)
+505,251569,Os de Balaguer,Noguera,Lleida
+506,171169,Osor,Selva,Girona/Barcelona (4)
+507,251575,Ossó de Sió,Urgell,Lleida
+508,81542,Pacs del Penedès,Alt Penedès,Barcelona
+509,81555,Palafolls,Maresme,Barcelona
+510,171175,Palafrugell,Baix Empordà,Girona
+511,171181,Palamós,Baix Empordà,Girona
+512,251581,"Palau d'Anglesola, el",Pla d'Urgell,Lleida
+513,171194,Palau de Santa Eulàlia,Alt Empordà,Girona
+514,171215,Palau-sator,Baix Empordà,Girona
+515,171208,Palau-saverdera,Alt Empordà,Girona
+516,81568,Palau-solità i Plegamans,Vallès Occidental,Barcelona
+517,431009,"Pallaresos, els",Tarragonès,Tarragona
+518,81574,Pallejà,Baix Llobregat,Barcelona
+519,430995,"Palma d'Ebre, la",Ribera d'Ebre,Tarragona
+520,89058,"Palma de Cervelló, la",Baix Llobregat,Barcelona
+521,171236,Palol de Revardit,Pla de l'Estany,Girona
+522,171241,Pals,Baix Empordà,Girona
+523,81580,"Papiol, el",Baix Llobregat,Barcelona
+524,171254,Pardines,Ripollès,Girona
+525,81593,Parets del Vallès,Vallès Oriental,Barcelona
+526,171267,Parlavà,Baix Empordà,Girona
+527,431016,Passanant i Belltall,Conca de Barberà,Tarragona
+528,171289,Pau,Alt Empordà,Girona
+529,431021,Paüls,Baix Ebre,Tarragona
+530,171292,Pedret i Marzà,Alt Empordà,Girona
+531,251641,Penelles,Noguera,Lleida
+532,171306,"Pera, la",Baix Empordà,Girona
+533,81607,Perafita,Lluçanès,Barcelona
+534,431037,Perafort,Tarragonès,Tarragona
+535,171328,Peralada,Alt Empordà,Girona
+536,251654,Peramola,Alt Urgell,Lleida
+537,431042,"Perelló, el",Baix Ebre,Tarragona
+538,81614,Piera,Anoia,Barcelona
+539,431055,"Piles, les",Conca de Barberà,Tarragona
+540,81635,Pineda de Mar,Maresme,Barcelona
+541,431068,"Pinell de Brai, el",Terra Alta,Tarragona
+542,251667,Pinell de Solsonès,Solsonès,Lleida
+543,251673,Pinós,Solsonès,Lleida
+544,431074,Pira,Conca de Barberà,Tarragona
+545,431080,"Pla de Santa Maria, el",Alt Camp,Tarragona
+546,81640,"Pla del Penedès, el",Alt Penedès,Barcelona
+547,171334,"Planes d'Hostoles, les",Garrotxa,Girona
+548,171349,Planoles,Ripollès,Girona
+549,259118,"Plans de Sió, els",Segarra,Lleida
+550,251689,"Poal, el",Pla d'Urgell,Lleida
+551,81653,"Pobla de Claramunt, la",Anoia,Barcelona
+552,251692,"Pobla de Cérvoles, la",Garrigues,Lleida
+553,81666,"Pobla de Lillet, la",Berguedà,Barcelona/Lleida (1)
+554,431093,"Pobla de Mafumet, la",Tarragonès,Tarragona
+555,431107,"Pobla de Massaluca, la",Terra Alta,Tarragona
+556,431114,"Pobla de Montornès, la",Tarragonès,Tarragona
+557,251713,"Pobla de Segur, la",Pallars Jussà,Lleida
+558,431129,Poboleda,Priorat,Tarragona
+559,81672,Polinyà,Vallès Occidental,Barcelona
+560,431135,"Pont d'Armentera, el",Alt Camp,Tarragona
+561,250306,"Pont de Bar, el",Alt Urgell,Lleida
+562,171352,Pont de Molins,Alt Empordà,Girona
+563,251734,"Pont de Suert, el",Alta Ribagorça,Lleida
+564,81825,"Pont de Vilomara i Rocafort, el",Bages,Barcelona
+565,431418,Pontils,Conca de Barberà,Tarragona
+566,81688,Pontons,Alt Penedès,Barcelona
+567,251728,Ponts,Noguera,Lleida
+568,171365,Pontós,Alt Empordà,Girona
+569,171371,Porqueres,Pla de l'Estany,Girona
+570,431140,Porrera,Priorat,Tarragona
+571,171404,"Port de la Selva, el",Alt Empordà,Girona
+572,171387,Portbou,Alt Empordà,Girona
+573,251749,"Portella, la",Segrià,Lleida
+574,431153,Pradell de la Teixeta,Priorat,Tarragona
+575,431166,Prades,Baix Camp,Tarragona
+576,431172,Prat de Comte,Terra Alta,Tarragona
+577,81691,"Prat de Llobregat, el",Baix Llobregat,Barcelona
+578,431188,Pratdip,Baix Camp,Tarragona
+579,81712,Prats de Lluçanès,Lluçanès,Barcelona
+580,81705,"Prats de Rei, els",Anoia,Barcelona
+581,251752,Prats i Sansor,Cerdanya,Girona/Lleida (2)
+582,251765,Preixana,Urgell,Lleida
+583,251771,Preixens,Noguera,Lleida
+584,82303,Premià de Dalt,Maresme,Barcelona
+585,81727,Premià de Mar,Maresme,Barcelona
+586,171390,"Preses, les",Garrotxa,Girona
+587,251790,Prullans,Cerdanya,Girona/Lleida (2)
+588,81751,Puig-reig,Berguedà,Barcelona/Lleida (1)
+589,171411,Puigcerdà,Cerdanya,Girona/Lleida (2)
+590,81748,Puigdàlber,Alt Penedès,Barcelona
+591,251804,Puiggròs,Garrigues,Lleida
+592,431191,Puigpelat,Alt Camp,Tarragona
+593,251811,Puigverd d'Agramunt,Urgell,Lleida
+594,251826,Puigverd de Lleida,Segrià,Lleida
+595,81764,Pujalt,Anoia,Barcelona
+596,81770,"Quar, la",Berguedà,Barcelona/Lleida (1)
+597,171426,Quart,Gironès,Girona
+598,170433,Queralbs,Ripollès,Girona
+599,431205,Querol,Alt Camp,Tarragona
+600,171432,Rabós,Alt Empordà,Girona
+601,81786,Rajadell,Bages,Barcelona
+602,431212,Rasquera,Ribera d'Ebre,Tarragona
+603,171447,Regencós,Baix Empordà,Girona
+604,81799,Rellinars,Vallès Occidental,Barcelona
+605,431227,Renau,Tarragonès,Tarragona
+606,431233,Reus,Baix Camp,Tarragona
+607,251832,Rialp,Pallars Sobirà,Lleida
+608,431248,"Riba, la",Alt Camp,Tarragona
+609,431251,Riba-roja d'Ebre,Ribera d'Ebre,Tarragona
+610,259059,Ribera d'Ondara,Segarra,Lleida
+611,251850,Ribera d'Urgellet,Alt Urgell,Lleida
+612,171450,Ribes de Freser,Ripollès,Girona
+613,171463,Riells i Viabrea,Selva,Girona/Barcelona (4)
+614,431264,"Riera de Gaià, la",Tarragonès,Tarragona
+615,251863,Riner,Solsonès,Lleida
+616,171479,Ripoll,Ripollès,Girona
+617,81803,Ripollet,Vallès Occidental,Barcelona
+618,259139,Riu de Cerdanya,Cerdanya,Girona/Lleida (2)
+619,171485,Riudarenes,Selva,Girona/Barcelona (4)
+620,171498,Riudaura,Garrotxa,Girona
+621,431270,Riudecanyes,Baix Camp,Tarragona
+622,431286,Riudecols,Baix Camp,Tarragona
+623,171501,Riudellots de la Selva,Selva,Girona/Barcelona (4)
+624,431299,Riudoms,Baix Camp,Tarragona
+625,171518,Riumors,Alt Empordà,Girona
+626,81810,"Roca del Vallès, la",Vallès Oriental,Barcelona
+627,431303,Rocafort de Queralt,Conca de Barberà,Tarragona
+628,431310,Roda de Berà,Tarragonès,Tarragona
+629,81831,Roda de Ter,Osona,Barcelona/Girona (3)
+630,431325,Rodonyà,Alt Camp,Tarragona
+631,431331,Roquetes,Baix Ebre,Tarragona
+632,171523,Roses,Alt Empordà,Girona
+633,251898,Rosselló,Segrià,Lleida
+634,431346,"Rourell, el",Alt Camp,Tarragona
+635,81859,Rubió,Anoia,Barcelona
+636,81846,Rubí,Vallès Occidental,Barcelona
+637,89019,Rupit i Pruit,Osona,Barcelona/Girona (3)
+638,171539,Rupià,Baix Empordà,Girona
+639,431362,"Ràpita, la",Montsià,Tarragona
+640,81878,Sabadell,Vallès Occidental,Barcelona
+641,81884,Sagàs,Berguedà,Barcelona/Lleida (1)
+642,81901,Saldes,Berguedà,Barcelona/Lleida (1)
+643,171544,Sales de Llierca,Garrotxa,Girona
+644,81918,Sallent,Bages,Barcelona
+645,431359,Salomó,Tarragonès,Tarragona
+646,439057,Salou,Tarragonès,Tarragona
+647,171557,Salt,Gironès,Girona
+648,251902,Salàs de Pallars,Pallars Jussà,Lleida
+649,251919,Sanaüja,Segarra,Lleida
+650,81944,Sant Adrià de Besòs,Barcelonès,Barcelona
+651,81957,Sant Agustí de Lluçanès,Osona,Barcelona/Girona (3)
+652,171576,Sant Andreu Salou,Gironès,Girona
+653,81976,Sant Andreu de Llavaneres,Maresme,Barcelona
+654,81960,Sant Andreu de la Barca,Baix Llobregat,Barcelona
+655,171833,Sant Aniol de Finestres,Garrotxa,Girona
+656,81982,Sant Antoni de Vilamajor,Vallès Oriental,Barcelona
+657,81995,Sant Bartomeu del Grau,Osona,Barcelona/Girona (3)
+658,82009,Sant Boi de Llobregat,Baix Llobregat,Barcelona
+659,82016,Sant Boi de Lluçanès,Osona,Barcelona/Girona (3)
+660,82037,Sant Cebrià de Vallalta,Maresme,Barcelona
+661,82021,Sant Celoni,Vallès Oriental,Barcelona
+662,171582,Sant Climent Sescebes,Alt Empordà,Girona
+663,82042,Sant Climent de Llobregat,Baix Llobregat,Barcelona
+664,82068,Sant Cugat Sesgarrigues,Alt Penedès,Barcelona
+665,82055,Sant Cugat del Vallès,Vallès Occidental,Barcelona
+666,82080,Sant Esteve Sesrovires,Baix Llobregat,Barcelona
+667,82074,Sant Esteve de Palautordera,Vallès Oriental,Barcelona
+668,251961,Sant Esteve de la Sarga,Pallars Jussà,Lleida
+669,82129,Sant Feliu Sasserra,Bages,Barcelona
+670,171595,Sant Feliu de Buixalleu,Selva,Girona/Barcelona (4)
+671,82107,Sant Feliu de Codines,Vallès Oriental,Barcelona
+672,171609,Sant Feliu de Guíxols,Baix Empordà,Girona
+673,82114,Sant Feliu de Llobregat,Baix Llobregat,Barcelona
+674,171616,Sant Feliu de Pallerols,Garrotxa,Girona
+675,171621,Sant Ferriol,Garrotxa,Girona
+676,82093,Sant Fost de Campsentelles,Vallès Oriental,Barcelona
+677,82135,Sant Fruitós de Bages,Bages,Barcelona
+678,171637,Sant Gregori,Gironès,Girona
+679,251924,Sant Guim de Freixenet,Segarra,Lleida
+680,251977,Sant Guim de la Plana,Segarra,Lleida
+681,171642,Sant Hilari Sacalm,Selva,Girona/Barcelona (4)
+682,82153,Sant Hipòlit de Voltregà,Osona,Barcelona/Girona (3)
+683,81939,Sant Iscle de Vallalta,Maresme,Barcelona
+684,439023,Sant Jaume d'Enveja,Montsià,Tarragona
+685,82166,Sant Jaume de Frontanyà,Berguedà,Barcelona/Lleida (1)
+686,171655,Sant Jaume de Llierca,Garrotxa,Girona
+687,431378,Sant Jaume dels Domenys,Baix Penedès,Tarragona
+688,82172,Sant Joan Despí,Baix Llobregat,Barcelona
+689,171680,Sant Joan de Mollet,Gironès,Girona
+690,82188,Sant Joan de Vilatorrada,Bages,Barcelona
+691,171674,Sant Joan de les Abadesses,Ripollès,Girona
+692,171851,Sant Joan les Fonts,Garrotxa,Girona
+693,171668,Sant Jordi Desvalls,Gironès,Girona
+694,89030,Sant Julià de Cerdanyola,Berguedà,Barcelona/Lleida (1)
+695,171693,Sant Julià de Ramis,Gironès,Girona
+696,82205,Sant Julià de Vilatorta,Osona,Barcelona/Girona (3)
+697,179032,Sant Julià del Llor i Bonmatí,Selva,Girona/Barcelona (4)
+698,82212,Sant Just Desvern,Baix Llobregat,Barcelona
+699,82233,Sant Llorenç Savall,Vallès Occidental,Barcelona
+700,82227,Sant Llorenç d'Hortons,Alt Penedès,Barcelona
+701,251930,Sant Llorenç de Morunys,Solsonès,Lleida
+702,171714,Sant Llorenç de la Muga,Alt Empordà,Girona
+703,82270,Sant Martí Sarroca,Alt Penedès,Barcelona
+704,82286,Sant Martí Sesgueioles,Anoia,Barcelona
+705,171735,Sant Martí Vell,Gironès,Girona
+706,82251,Sant Martí d'Albars,Lluçanès,Barcelona
+707,82248,Sant Martí de Centelles,Osona,Barcelona/Girona (3)
+708,171729,Sant Martí de Llémena,Gironès,Girona
+709,259025,Sant Martí de Riucorb,Urgell,Lleida
+710,82264,Sant Martí de Tous,Anoia,Barcelona
+711,82299,Sant Mateu de Bages,Bages,Barcelona
+712,171740,Sant Miquel de Campmajor,Pla de l'Estany,Girona
+713,171753,Sant Miquel de Fluvià,Alt Empordà,Girona
+714,171766,Sant Mori,Alt Empordà,Girona
+715,171772,Sant Pau de Segúries,Ripollès,Girona
+716,171788,Sant Pere Pescador,Alt Empordà,Girona
+717,81897,Sant Pere Sallavinera,Anoia,Barcelona
+718,82310,Sant Pere de Ribes,Garraf,Barcelona
+719,82325,Sant Pere de Riudebitlles,Alt Penedès,Barcelona
+720,82331,Sant Pere de Torelló,Osona,Barcelona/Girona (3)
+721,82346,Sant Pere de Vilamajor,Vallès Oriental,Barcelona
+722,82359,Sant Pol de Mar,Maresme,Barcelona
+723,82362,Sant Quintí de Mediona,Alt Penedès,Barcelona
+724,82397,Sant Quirze Safaja,Moianès,Barcelona
+725,82378,Sant Quirze de Besora,Osona,Barcelona/Girona (3)
+726,82384,Sant Quirze del Vallès,Vallès Occidental,Barcelona
+727,251945,Sant Ramon,Segarra,Lleida
+728,82401,Sant Sadurní d'Anoia,Alt Penedès,Barcelona
+729,82418,Sant Sadurní d'Osormort,Osona,Barcelona/Girona (3)
+730,80983,Sant Salvador de Guardiola,Bages,Barcelona
+731,82628,Sant Vicenç de Castellet,Bages,Barcelona
+732,82649,Sant Vicenç de Montalt,Maresme,Barcelona
+733,82652,Sant Vicenç de Torelló,Osona,Barcelona/Girona (3)
+734,82634,Sant Vicenç dels Horts,Baix Llobregat,Barcelona
+735,431384,Santa Bàrbara,Montsià,Tarragona
+736,82439,Santa Cecília de Voltregà,Osona,Barcelona/Girona (3)
+737,82444,Santa Coloma de Cervelló,Baix Llobregat,Barcelona
+738,171805,Santa Coloma de Farners,Selva,Girona/Barcelona (4)
+739,82457,Santa Coloma de Gramenet,Barcelonès,Barcelona
+740,431397,Santa Coloma de Queralt,Conca de Barberà,Tarragona
+741,171812,Santa Cristina d'Aro,Baix Empordà,Girona
+742,82460,Santa Eugènia de Berga,Osona,Barcelona/Girona (3)
+743,82476,Santa Eulàlia de Riuprimer,Osona,Barcelona/Girona (3)
+744,82482,Santa Eulàlia de Ronçana,Vallès Oriental,Barcelona
+745,82495,Santa Fe del Penedès,Alt Penedès,Barcelona
+746,171827,Santa Llogaia d'Àlguema,Alt Empordà,Girona
+747,82508,Santa Margarida de Montbui,Anoia,Barcelona
+748,82515,Santa Margarida i els Monjos,Alt Penedès,Barcelona
+749,82589,Santa Maria d'Oló,Moianès,Barcelona
+750,82536,Santa Maria de Besora,Osona,Barcelona/Girona (3)
+751,82567,Santa Maria de Martorelles,Vallès Oriental,Barcelona
+752,82554,Santa Maria de Merlès,Berguedà,Barcelona/Lleida (1)
+753,82573,Santa Maria de Miralles,Anoia,Barcelona
+754,82592,Santa Maria de Palautordera,Vallès Oriental,Barcelona
+755,431401,Santa Oliva,Baix Penedès,Tarragona
+756,171848,Santa Pau,Garrotxa,Girona
+757,82606,Santa Perpètua de Mogoda,Vallès Occidental,Barcelona
+758,82613,Santa Susanna,Maresme,Barcelona
+759,81923,Santpedor,Bages,Barcelona
+760,431423,Sarral,Conca de Barberà,Tarragona
+761,171864,Sarrià de Ter,Gironès,Girona
+762,252017,Sarroca de Bellera,Pallars Jussà,Lleida
+763,252000,Sarroca de Lleida,Segrià,Lleida
+764,171870,"Saus, Camallera i Llampaies",Alt Empordà,Girona
+765,431439,Savallà del Comtat,Conca de Barberà,Tarragona
+766,431444,"Secuita, la",Tarragonès,Tarragona
+767,171886,"Selva de Mar, la",Alt Empordà,Girona
+768,431457,"Selva del Camp, la",Baix Camp,Tarragona
+769,431460,Senan,Conca de Barberà,Tarragona
+770,252022,Senterada,Pallars Jussà,Lleida
+771,250352,"Sentiu de Sió, la",Noguera,Lleida
+772,82671,Sentmenat,Vallès Occidental,Barcelona
+773,171903,Serinyà,Pla de l'Estany,Girona
+774,171910,Serra de Daró,Baix Empordà,Girona
+775,252043,Seròs,Segrià,Lleida
+776,171925,Setcases,Ripollès,Girona
+777,252038,"Seu d'Urgell, la",Alt Urgell,Lleida
+778,82690,Seva,Osona,Barcelona/Girona (3)
+779,252056,Sidamon,Pla d'Urgell,Lleida
+780,171931,Sils,Selva,Girona/Barcelona (4)
+781,82704,Sitges,Garraf,Barcelona
+782,170524,Siurana,Alt Empordà,Girona
+783,82711,Sobremunt,Lluçanès,Barcelona
+784,252069,"Soleràs, el",Garrigues,Lleida
+785,431476,Solivella,Conca de Barberà,Tarragona
+786,252075,Solsona,Solsonès,Lleida
+787,82726,Sora,Osona,Barcelona/Girona (3)
+788,252081,Soriguera,Pallars Sobirà,Lleida
+789,252094,Sort,Pallars Sobirà,Lleida
+790,252108,Soses,Segrià,Lleida
+791,82732,Subirats,Alt Penedès,Barcelona
+792,252115,Sudanell,Segrià,Lleida
+793,252120,Sunyer,Segrià,Lleida
+794,171946,Susqueda,Selva,Girona/Barcelona (4)
+795,430445,"Sénia, la",Montsià,Tarragona
+796,82747,Súria,Bages,Barcelona
+797,82763,Tagamanent,Vallès Oriental,Barcelona
+798,82779,Talamanca,Bages,Barcelona
+799,252154,Talarn,Pallars Jussà,Lleida
+800,252167,Talavera,Segarra,Lleida
+801,171959,"Tallada d'Empordà, la",Baix Empordà,Girona
+802,82785,Taradell,Osona,Barcelona/Girona (3)
+803,431482,Tarragona,Tarragonès,Tarragona
+804,252192,Tarroja de Segarra,Segarra,Lleida
+805,252189,Tarrés,Garrigues,Lleida
+806,82802,Tavertet,Osona,Barcelona/Girona (3)
+807,82750,Tavèrnoles,Osona,Barcelona/Girona (3)
+808,82819,Teià,Maresme,Barcelona
+809,171962,Terrades,Alt Empordà,Girona
+810,82798,Terrassa,Vallès Occidental,Barcelona
+811,82824,Tiana,Maresme,Barcelona
+812,252228,Tiurana,Noguera,Lleida
+813,431495,Tivenys,Baix Ebre,Tarragona
+814,431508,Tivissa,Ribera d'Ebre,Tarragona
+815,82830,Tona,Osona,Barcelona/Girona (3)
+816,82845,Tordera,Maresme,Barcelona
+817,82858,Torelló,Osona,Barcelona/Girona (3)
+818,252249,"Torms, els",Garrigues,Lleida
+819,252252,Tornabous,Urgell,Lleida
+820,252271,"Torre de Cabdella, la",Pallars Jussà,Lleida
+821,82861,"Torre de Claramunt, la",Anoia,Barcelona
+822,431515,"Torre de Fontaubella, la",Priorat,Tarragona
+823,431520,"Torre de l'Espanyol, la",Ribera d'Ebre,Tarragona
+824,252332,Torre-serona,Segrià,Lleida
+825,252265,Torrebesses,Segrià,Lleida
+826,431536,Torredembarra,Tarragonès,Tarragona
+827,252287,Torrefarrera,Segrià,Lleida
+828,259078,Torrefeta i Florejacs,Segarra,Lleida
+829,252304,Torregrossa,Pla d'Urgell,Lleida
+830,252311,Torrelameu,Noguera,Lleida
+831,82877,Torrelavit,Alt Penedès,Barcelona
+832,82883,Torrelles de Foix,Alt Penedès,Barcelona
+833,82896,Torrelles de Llobregat,Baix Llobregat,Barcelona
+834,171978,Torrent,Baix Empordà,Girona
+835,252326,Torres de Segre,Segrià,Lleida
+836,171984,Torroella de Fluvià,Alt Empordà,Girona
+837,171997,Torroella de Montgrí,Baix Empordà,Girona
+838,431541,Torroja del Priorat,Priorat,Tarragona
+839,172001,Tortellà,Garrotxa,Girona
+840,431554,Tortosa,Baix Ebre,Tarragona
+841,252234,Torà,Solsonès,Lleida
+842,172018,Toses,Ripollès,Girona
+843,172023,Tossa de Mar,Selva,Girona/Barcelona (4)
+844,252347,Tremp,Pallars Jussà,Lleida
+845,252173,Tàrrega,Urgell,Lleida
+846,252206,Térmens,Noguera,Lleida
+847,252213,Tírvia,Pallars Sobirà,Lleida
+848,82900,Ullastrell,Vallès Occidental,Barcelona
+849,172057,Ullastret,Baix Empordà,Girona
+850,431567,Ulldecona,Montsià,Tarragona
+851,431573,Ulldemolins,Priorat,Tarragona
+852,172044,Ullà,Baix Empordà,Girona
+853,172039,Ultramort,Baix Empordà,Girona
+854,172060,Urús,Cerdanya,Girona/Lleida (2)
+855,82917,Vacarisses,Vallès Occidental,Barcelona
+856,170144,"Vajol, la",Alt Empordà,Girona
+857,172076,"Vall d'en Bas, la",Garrotxa,Girona
+858,172082,"Vall de Bianya, la",Garrotxa,Girona
+859,250432,"Vall de Boí, la",Alta Ribagorça,Lleida
+860,259010,Vall de Cardós,Pallars Sobirà,Lleida
+861,172095,Vall-llobrega,Baix Empordà,Girona
+862,82922,Vallbona d'Anoia,Anoia,Barcelona
+863,252385,Vallbona de les Monges,Urgell,Lleida
+864,82938,Vallcebre,Berguedà,Barcelona/Lleida (1)
+865,431589,Vallclara,Conca de Barberà,Tarragona
+866,252402,Vallfogona de Balaguer,Noguera,Lleida
+867,171707,Vallfogona de Ripollès,Ripollès,Girona
+868,431592,Vallfogona de Riucorb,Conca de Barberà,Tarragona
+869,82943,Vallgorguina,Vallès Oriental,Barcelona
+870,82956,Vallirana,Baix Llobregat,Barcelona
+871,431606,Vallmoll,Alt Camp,Tarragona
+872,82969,Vallromanes,Vallès Oriental,Barcelona
+873,431613,Valls,Alt Camp,Tarragona
+874,259062,"Valls d'Aguilar, les",Alt Urgell,Lleida
+875,252398,"Valls de Valira, les",Alt Urgell,Lleida
+876,431628,Vandellòs i l'Hospitalet de l'Infant,Baix Camp,Tarragona
+877,259097,"Vansa i Fórnols, la",Alt Urgell,Lleida
+878,82975,Veciana,Anoia,Barcelona
+879,431634,"Vendrell, el",Baix Penedès,Tarragona
+880,172109,Ventalló,Alt Empordà,Girona
+881,252424,Verdú,Urgell,Lleida
+882,172116,Verges,Baix Empordà,Girona
+883,431649,Vespella de Gaià,Tarragonès,Tarragona
+884,82981,Vic,Osona,Barcelona/Girona (3)
+885,172137,Vidreres,Selva,Girona/Barcelona (4)
+886,172121,Vidrà,Osona,Barcelona/Girona (3)
+887,252430,Vielha e Mijaran,Aran,Lleida
+888,431704,Vila-rodona,Alt Camp,Tarragona
+889,172305,Vila-sacra,Alt Empordà,Girona
+890,252521,Vila-sana,Pla d'Urgell,Lleida
+891,431711,Vila-seca,Tarragonès,Tarragona
+892,431652,Vilabella,Alt Camp,Tarragona
+893,172142,Vilabertran,Alt Empordà,Girona
+894,172155,Vilablareix,Gironès,Girona
+895,82994,Vilada,Berguedà,Barcelona/Lleida (1)
+896,172174,Viladamat,Alt Empordà,Girona
+897,172168,Viladasens,Gironès,Girona
+898,83015,Viladecans,Baix Llobregat,Barcelona
+899,83008,Viladecavalls,Vallès Occidental,Barcelona
+900,172180,Vilademuls,Pla de l'Estany,Girona
+901,172207,Viladrau,Osona,Barcelona/Girona (3)
+902,172214,Vilafant,Alt Empordà,Girona
+903,83054,Vilafranca del Penedès,Alt Penedès,Barcelona
+904,252445,Vilagrassa,Urgell,Lleida
+905,172235,Vilajuïga,Alt Empordà,Girona
+906,83067,Vilalba Sasserra,Vallès Oriental,Barcelona
+907,431750,Vilalba dels Arcs,Terra Alta,Tarragona
+908,252458,Vilaller,Alta Ribagorça,Lleida
+909,172240,Vilallonga de Ter,Ripollès,Girona
+910,431665,Vilallonga del Camp,Tarragonès,Tarragona
+911,172253,Vilamacolum,Alt Empordà,Girona
+912,172266,Vilamalla,Alt Empordà,Girona
+913,172272,Vilamaniscle,Alt Empordà,Girona
+914,252477,Vilamòs,Aran,Lleida
+915,172288,Vilanant,Alt Empordà,Girona
+916,431671,Vilanova d'Escornalbou,Baix Camp,Tarragona
+917,252483,Vilanova de Bellpuig,Pla d'Urgell,Lleida
+918,252509,Vilanova de Meià,Noguera,Lleida
+919,431687,Vilanova de Prades,Conca de Barberà,Tarragona
+920,83036,Vilanova de Sau,Osona,Barcelona/Girona (3)
+921,252516,Vilanova de Segrià,Segrià,Lleida
+922,252496,Vilanova de l'Aguda,Noguera,Lleida
+923,252542,Vilanova de la Barca,Segrià,Lleida
+924,83020,Vilanova del Camí,Anoia,Barcelona
+925,89024,Vilanova del Vallès,Vallès Oriental,Barcelona
+926,83073,Vilanova i la Geltrú,Garraf,Barcelona
+927,431690,Vilaplana,Baix Camp,Tarragona
+928,82140,Vilassar de Dalt,Maresme,Barcelona
+929,82191,Vilassar de Mar,Maresme,Barcelona
+930,431726,Vilaverd,Conca de Barberà,Tarragona
+931,172229,Vilaür,Alt Empordà,Girona
+932,431732,"Vilella Alta, la",Priorat,Tarragona
+933,431747,"Vilella Baixa, la",Priorat,Tarragona
+934,172333,Vilobí d'Onyar,Selva,Girona/Barcelona (4)
+935,83041,Vilobí del Penedès,Alt Penedès,Barcelona
+936,172327,Vilopriu,Baix Empordà,Girona
+937,252537,"Vilosell, el",Garrigues,Lleida
+938,431763,Vimbodí i Poblet,Conca de Barberà,Tarragona
+939,252555,Vinaixa,Garrigues,Lleida
+940,431779,Vinebre,Ribera d'Ebre,Tarragona
+941,431785,Vinyols i els Arcs,Baix Camp,Tarragona
+942,83089,Viver i Serrateix,Berguedà,Barcelona/Lleida (1)
+943,430521,Xerta,Baix Ebre,Tarragona
+944,250024,Àger,Noguera,Lleida
+945,81430,Òdena,Anoia,Barcelona
+946,81537,Òrrius,Maresme,Barcelona
