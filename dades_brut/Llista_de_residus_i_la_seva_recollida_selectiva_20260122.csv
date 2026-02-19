@@ -1,0 +1,213 @@
+"ID","Nom","ON VA?","PROCÉS 1","PROCÉS 2","EN QUÈ ES TRANSFORMA 1","EN QUÈ ES TRANSFORMA 2","CONSELL DE PREVENCIÓ"
+"R001","Aerosols","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Alumini reciclat","-","-"
+"R002","Agulles cosir","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R003","Ampolla de plàstic","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Plàstic","-","Opta per envasos grans"
+"R004","Ampolla de vidre","Vidre (verd)","Planta de triatge: Vidre","Planta de reciclatge","Vidre reciclat","-","Reutilitza les ampolles de vidre"
+"R005","Auriculars","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","-","-"
+"R006","Baieta","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R007","Bastonets de les orelles","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R008","Bateria de cotxe","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plom","Carcasses reciclades","-"
+"R009","Bijuteria i complements","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R010","Bolígrafs","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","-","Utilitza bolígrafs de tinta recarregable"
+"R011","Bolquers, compreses, tampons","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","Optar per bolquers reutilitzables pot implicar una reducció de residus de més de 1.000 kg per família a l’any, i fins a 1.000 € anuals d’estalvi."
+"R012","Bombeta de baix consum","Deixalleria / Punt Verd ","Empresa especialitzada","Fabricant","Mercuri reciclat","Alumini reciclat","Evitar el seu trencament"
+"R013","Bombeta de filament","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-",
+"R014","Bossa aperitiu","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Safata Alumini","-","-"
+"R015","Bossa de paper o cartró","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","Reutilitza les bosses que puguis."
+"R016","Bossa de plàstic","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Bosses de plàstic","-","Substitueix les bosses de plàstic per bosses reutilitzables, cistell o carro de la compra"
+"R017","Bric","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Alumini reciclat","Plàstic","-"
+"R018","Cafè (càpsules)","Deixalleria / Punt Verd ","Empresa especialitzada","-","Safata Alumini","-","-"
+"R019","Cafè (filtre)","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","-"
+"R020","Cafè (marro)","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+"R021","Calçat","Contenidor  Roba ","Triatge de roba","-","Roba","-","-"
+"R022","Capsa de cartró","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","-"
+"R024","Capsa de plàstic","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Caixes de plàstic","-","-"
+"R025","Capsa de puros","Envàs lleuger (groc)","Planta de triatge d'envasos","Fabricant","Combustible","Conglomerat","-"
+"R026","Cassola","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Peces automoció","-","-"
+"R027","CD's/DVD's","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Policarbonat","-","-"
+"R028","Cendrer de plàstic","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R029","Cendrer de porcellana","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R030","Cendrer de vidre","Deixalleria / Punt Verd ","Empresa especialitzada","-","Vidre reciclat","-","Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+"R031","Cera","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R032","Cistell o cabàs","Deixalleria / Punt Verd ","Incineradora","-","Electricitat","-","Per anar a comprar, podem portar el cabàs per estalviar bosses de plàstic, adquirir productes a granel, escollir envasos de gran capacitat i productes concentrats, i rebutjar embolcalls innecessaris."
+"R033","Clips metàl·lics","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R034","Closques","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+"R035","Coberts","Deixalleria / Punt Verd ","Empresa especialitzada","-","Metall reciclat","-","-"
+"R036","Cordons de sabata","Contenidor  Roba ","Triatge de roba","-","Roba","-","-"
+"R037","Cotó fluix","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R038","Desodorant amb roll-on","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Plàstics","-","-"
+"R039","Diari","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","-"
+"R040","Disc de vinil","Deixalleria / Punt Verd ","Incineradora","-","Electricitat","-","-"
+"R041","Draps","Contenidor  Roba ","Triatge de roba","-","Roba","-","-"
+"R042","Embolcalls de film i plata","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Safata Alumini","-","Utilitza la carmanyola per a portar l’entrepà o algun tipus d’embolcall reutilitzable"
+"R043","Escuradents de fusta","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+"R044","Espiral llibreta","Deixalleria / Punt Verd ","Empresa especialitzada","-","Metall reciclat","-","-"
+"R045","Etiqueta adhesiva","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R046","Etiqueta de paper","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","-"
+"R047","Excrements","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+"R048","Fibrociment amb amiant","Deixalleries especifiques","Empresa especialitzada","-","-","-","Aquest material representa un risc per la salut. NO EL MANIPULIS NI L’ESMICOLIS."
+"R049","Flors","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+"R050","Fluorescent","Deixalleria / Punt Verd ","Empresa especialitzada","Fabricant","Mercuri reciclat","Alumini reciclat","Evitar el seu trencament"
+"R051","Fotos","Deixalleria / Punt Verd ","Empresa especialitzada","Incineradora","Electricitat","-","-"
+"R052","Fulls de paper","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","Reutilitza el paper imprès a una sola cara per prendre notes o imprimir esborranys. Imprimeix els documents a doble cara i només quan realment sigui necessari."
+"R053","Galleda","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","Metall","-"
+"R054","Gerro ceràmica","Deixalleria / Punt Verd ","Empresa especialitzada","-","Monodipòsit","-","-"
+"R055","Gespa","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+"R056","Goma esborrar","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R057","Got de plàstic","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Bosses de plàstic","-","Pots optar per l’ús de gots reutilitzables"
+"R058","Got de vidre trencat","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R059","Infusions (bossetes)","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+"R060","Iogurt  de plàstic","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Bosses de plàstic","-","-"
+"R061","Iogurt de vidre","Vidre (verd)","Planta de triatge: Vidre","Planta de reciclatge","Vidre reciclat","-","Reutilitza els pots"
+"R062","Joguines","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","-","Abans de llençar-les pensa si algú les pot aprofitar"
+"R063","Llapis","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R064","Llaunes fèrriques","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Metalls","-","-"
+"R065","Llima d’ungles","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R066","Llumins de fusta","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+"Triatge roba","C2_triatge_roba",,,,,,
+"R067","Mànega","Deixalleria / Punt Verd ","Empresa especialitzada","-","Plàstic","-","-"
+"R068","Maquineta d’afaitar","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R069","Maquineta fer punta","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R070","Matalàs","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Metall reciclat","Filtres industrials","-"
+"R071","Medicaments","Medicaments ","Empresa especialitzada","-","Paper reciclat","Medicament processat","Els medicament caducats o fora d’ús no es poden llençar mai per l’aigüera ni al vàter, ja que contenen principis actius que poden causar un greu risc per a la salut de les persones i del medi ambient"
+"R072","Mirall","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","Vidre pla","-"
+"R073","Mitges","Contenidor  Roba ","Triatge de roba","-","Roba","-","Evita llençar la roba directament a les escombraries. Si el material està fet malbé, és millor portar-lo a un Punt Verd o a una deixalleria. Si la roba o els complements es troben en bon estat, dipositem-los a un contenidor específic de roba, o donar-ho a persones que en puguin fer un nou ús."
+"R074","Mòbil i accessoris","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Carcasses","-","Abans de llençar-lo pensa si encara es pot reparar o algú el pot utilitzar."
+"R075","Moble de fusta","Deixalleria / Punt Verd ","Empresa especialitzada","-","Conglomerat","Combustible","La fusta que portem a la deixalleria és un 99% valoritzable."
+"R076","Nevera","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","Ferro","Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+"R077","Oli de cotxe","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Oli motor","Plàstic","És millor retirar l’oli en llocs especialitzats per evitar problemes de contaminació."
+"R078","Oli de cuina ","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Biodièsel","-","Evitar llençar-lo a l’aigüera o pel vàter. A casa nostra hi ha una forta tradició de fer sabó natural amb l’oli de cuina fora d’ús."
+"R079","Ordinador","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Carcasses","-","Abans de llençar-lo pensa si pots reparar-lo o ampliar les seves prestacions tot incorporant-hi nous complements."
+"R080","Paella","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Alumini reciclat","-","-"
+"R081","Pal d'escombra","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R082","Pal de fregar","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R083","Palleta","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R084","Paper magdalenes","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+"R085","Paper plastificat","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R086","Penjador de plàstic","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Caixes de plàstic","-","-"
+"R087","Petits aparells elèctrics i electrònics","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","Ferro","Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+"R088","Piles","Contenidors Piles","Empresa especialitzada","-","Piles reciclades","-","Utilitzeu piles recarregables"
+"R089","Pintura","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Alumini reciclat","-","Eviteu que aquests residus arribin al medi contaminant aigües i sòls. Opta sempre que puguis per pintures ecològiques, amb base aquosa, ja que són molt menys contaminants quan esdevenen residu."
+"R090","Pinyols","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+"R091","Pinzell brut","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","Electricitat","Eviteu que aquest residus arribin al medi contaminant aigües i sòls."
+"R092","Plats trencats","Deixalleria / Punt Verd ","Empresa especialitzada","-","Monodipòsit","-","Abans de llençar-los pensa si algú els pot aprofitar."
+"R093","Pneumàtic","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Pneumàtic","Metall","El canvi dels pneumàtics en tallers especialitzats garanteix una bona gestió ambiental d’aquests residus"
+"R094","Pols d’escombrar","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R095","Porró vidre","Deixalleria / Punt Verd ","Empresa especialitzada","-","Vidre reciclat","-","-"
+"R096","Pot de vidre","Vidre (verd)","Planta de triatge: Vidre","Planta de reciclatge","Vidre reciclat","-","-"
+"R097","Precinte adhesiu","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R098","Precinte ampolles vi i cava","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Safata Alumini","-","-"
+"R099","Preservatiu","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R100","Puntes de cigarret","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R101","Radiografia","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plata ","-","-"
+"R102","Raspall de dents","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R103","Rentadora","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Plàstic","Ferro","Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+"R104","Restes de menjar","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+"R105","Revista","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","Reaprofita el paper de les revistes per a embolcalls, per a protegir el paviment, etc."
+"R106","Roba","Contenidor  Roba ","Triatge de roba","-","Roba","-","Evita llençar la roba directament a les escombraries. Si el material està fet malbé, és millor portar-lo a un Punt Verd o a una deixalleria. Si la roba o els complements es troben en bon estat, dipositem-los a un contenidor específic de roba, o donar-ho a persones que en puguin fer un nou ús."
+"R107","Rodet de fotografies","Deixalleria / Punt Verd ","Empresa especialitzada","-","Carcasses","-","-"
+"R108","Runa (obra menor)","Deixalleria / Punt Verd ","Empresa especialitzada","-","Monodipòsit","-","Evita abocaments incontrolats"
+"R109","Aliment malmès en safata","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","-"
+"R110","Safates de porexpan","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Porexpan","-","Compra a granel. Procura comprar aliments que no estiguin sobre-envasats"
+"R111","Sobre de paper","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","-"
+"R112","Sorra de gat","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R113","Tapes de pot","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Metalls","-","-"
+"R114","Taps de plàstic","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Cubells de plàstic","-","-"
+"R115","Taps de suro","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+"R116","Taps metàl·lics","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Metalls","-","-"
+"R117","Televisió","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Carcasses","-","Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+"R118","Termòmetre de mercuri","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Mercuri reciclat","-","No comprar termòmetres que continguin mercuri (des d’abril de 2009 s’ha prohibit la venda d’instruments de medició que portin mercuri per la seva perillositat vers la salut i el medi)."
+"Energia Elèctrica","C4_electricitat",,,,,,
+"Compostatge / Adob: Planteta / Camps conreu","C4_compost",,,,,,
+"R119","Terra plantes","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","Els tòners són residus especials que requereixen un tractament específic per no malmetre el medi ambient. Per tant, cal que els recollim de manera separada  portant-los a la deixalleria o dipositant-los als contenidors específics dels punts de venda."
+"R120","Test ceràmica","Deixalleria / Punt Verd ","Empresa especialitzada","-","Monodipòsit","-","-"
+"R121","Test de plàstic","Deixalleria / Punt Verd ","Planta de reciclatge","-","Plàstic","-","-"
+"R122","Tòner","Deixalleria / Punt Verd ","Empresa especialitzada","-","Toners","-","-"
+"R123","Tovalló paper brut","Fracció orgànica (marró)","Planta de digestió anaeròbia","Planta de compostatge","Compost","Electricitat","-"
+"R124","Tub de dentifrici","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Cubells de plàstic","-","-"
+"R125","Tub de PVC","Deixalleria / Punt Verd ","Empresa especialitzada","-","PVC","-","-"
+"C3",,,,,,,
+"Digestors + Biogas","C3_digestor",,,,,,
+"R126","Ulleres","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","Abans de llençar les ulleres que ja no utilitzes, pensa si es poden reutilitzar. Existeixen ONG i algunes òptiques encarregades de realitzar campanyes de recollida i gestió."
+"R127","Vernís","Deixalleria / Punt Verd ","Empresa especialitzada","Planta de reciclatge","Metalls","-","Opta sempre que puguis pels vernissos ecològics, elaborats a partir de substàncies naturals com la trementina o la pell de taronja, molt menys contaminants en esdevenir residu."
+"R128","Vidre pla","Deixalleria / Punt Verd ","Empresa especialitzada","Fabricant","Vidre pla","-","Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+"R129","Vidre de marc de fotos","Deixalleria / Punt Verd ","Empresa especialitzada","Fabricant","Vidre pla","-","Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+"R131","Xarxa de fruita","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Bosses de plàstic","-","Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+"R132","Xiclet","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R133","Xinxeta","Fracció resta (gris)","Planta de triatge: Resta","-","Monodipòsit","-","-"
+"R134","Xumet","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R135","Caixa de fusta petita (per a la fruita més delicada)","Envàs lleuger (groc)","Planta de triatge d'envasos","Fabricant","Combustible","Conglomerat","-"
+"R136","Capsa de sabates","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","-"
+"R137","Capsa de cereals","Paper i cartró (blau)","Planta de triatge de paper i cartró","Planta de reciclatge","Paper reciclat","-","-"
+"R138","Flascó de vidre","Vidre (verd)","Planta de triatge: Vidre","Planta de reciclatge","Vidre reciclat","-","-"
+"R139","Tovalloletes humides","Fracció resta (gris)","Planta de triatge: Resta","Incineradora","Electricitat","-","-"
+"R140","Cartutxos de cera depilatòria","Envàs lleuger (groc)","Planta de triatge d'envasos","Planta de reciclatge","Plàstics","-","-"
+"ID","Nom",,,,,,
+"C1/01","Fracció orgànica (marró-taronja)",,,,,,
+"C1/02","Envàs lleuger (groc)",,,,,,
+"C1/03","Envàs vidre (verd)",,,,,,
+"C1/04","Paper i cartró (blau)",,,,,,
+"C1/05","Rebuig (gris)",,,,,,
+"C1/06","Piles i acumuladors (comerços)",,,,,,
+"C1/07","Medicaments (farmàcies)",,,,,,
+"C1/08","Deixalleria / Punt Verd (vermell)",,,,,,
+"C1/09","Especial",,,,,,
+"C1/10","Roba (blanc)","Nom il·lustració","Nom Imatge",,,,
+"C1",,,,,,,
+"Fracció orgànica (marró-taronja)","C1_cont_organica",,,,,,
+"Envàs lleuger (groc)","C1_cont_envas",,,,,,
+"Envàs vidre (verd)","C1_cont_vidre",,,,,,
+"Paper i cartró (blau)","C1_cont_paper",,,,,,
+"Rebuig (gris)","C1_cont_resta",,,,,,
+"Piles i acumuladors (comerços)","C1_cont_piles",,,,,,
+"Medicaments (farmàcies)","C1_cont_farmac",,,,,,
+"Deixalleria / Punt Verd (vermell)","C1_deixalleria",,,,,,
+"Especial","C1_empresa_fibrociment",,,,,,
+"Roba (blanc)","C1_cont_roba",,,,,,
+"C2",,,,,,,
+"Ecoparc","C2_ecoparc",,,,,,
+"Planta Triatge Envasos","C2_planta_triatge_envas",,,,,,
+"Planta Triatge Paper cartró","C2_planta_triatge_paper",,,,,,
+"Planta Triatge Vidre","C2_planta_triatge_vidre",,,,,,
+"Planta Triatge Resta","C2_planta_triatge_resta",,,,,,
+"Empreses especialitzades","C2_emp_especialitzada",,,,,,
+"Fabricant: Fabriqueta","C3_fabricant",,,,,,
+"Planta Reciclatge","C3_planta_reciclatge",,,,,,
+"Incineradora","C3_incineradora",,,,,,
+"RESULTATS C4",,,,,,,
+"Monodipòsit controlat","C4_monodiposit",,,,,,
+"Combustible per a calderes (Caldera)","C4_combustible",,,,,,
+"Conglomerats per a mobles (Mobles)","C4_conglomerat",,,,,,
+"Altres envasos i ampolles de vidre.","C4_vidre_reciclat",,,,,,
+"Envasos de plàstic","C4_envasos_nous_plastic",,,,,,
+"Piles, Acer inoxidable, Altaveus per a equips de música, aparell electrònic","C4_piles_reciclades",,,,,,
+"Llingots de plom.","C4_plom",,,,,,
+"Bosses de plàstic, film, teles asfàltiques.","C4_plastic_bosses",,,,,,
+"Miralls, finestres","C4_nou_vidre_pla",,,,,,
+"Paquets de fulls, cartró per a envasos, revistes i diaris, paper d'embalar, caixes de cartró.","C4_paper_reciclat",,,,,,
+"Envasos d'alumini, peces d'automoció, perfils de finestres, senyals trànsit.","C4_alumini_reciclat",,,,,,
+"Safates d'alumini, envasos.","C4_safata_alumini_reciclat",,,,,,
+"Envasos, samarretes esportives, tubs.","C4_plastic_samarretes",,,,,,
+"Caixes de plàstic, penjadors, tubs.","C4_plastic_caixes",,,,,,
+"Envasos, cubells, tubs.","C4_plastic_cubell",,,,,,
+"Envasos, peces automoció, material construcció, eines.","C4_ferric_construccio",,,,,,
+"Embalatges de porexpan, planxes aïllants.","C4_porexpan_reciclat",,,,,,
+"Piles, bombetes, termómetres.","C4_mercuri_reciclat",,,,,,
+"Tancaments, articles per a l' automoció","C4_peces_automocio",,,,,,
+"Peces d'automòbil, enllumenat públic, carcasses de mòbils, d'ordinadors.","C4_carcasses_reciclat",,,,,,
+"Peces de policarbonat: CD, pantalles cascos","C4_policarbonat_reciclat",,,,,,
+"Articles de vidre que no son envasos.","C4_vidre_reciclat",,,,,,
+"Articles de metalls que no son envasos.","C4_metall_reciclat",,,,,,
+"Objectes d'alumini.","C4_alumini_reciclat_objectes",,,,,,
+"Objectes de plàstic per a mobiliari urbà, objectes de plàstic.","C4_plastic_reciclat_urba",,,,,,
+"Objectes metàl·lics.","C4_metall_reciclat_objectes",,,,,,
+"Objectes de plàstic (joguines).  ","C4_plastic_reciclat_objectes",,,,,,
+"Plata Rajos X, Material fotogràfic","C4_plata_reciclat",,,,,,
+"Medicaments processats","C4_medicament_processat",,,,,,
+"Oli motor","C4_oli_motor",,,,,,
+"Farines i greixos alimentació animal, biogàs","C4_aliment_animal_biogas",,,,,,
+"Pneumàtics, rajples parcs infantils, camps de gespa artificial, soles de sabata,jardineres o asfalt per a carreteres.","C4_pneumatic_reciclat",,,,,,
+"Tóners i càpsules per a impressores","C4_toners_tinta",,,,,,
+"Tubs, materials construcció, soles sabates","C4_pvc_reciclat",,,,,,
+"La recollida selectiva de la roba que dipositem al contenidor dóna feina a col•lectius desfavorits, aglutinats per empreses d’inserció social.","C4_roba_solidaritat",,,,,,
+"Elements aïllants, filtres industrials.","C4_filtre_industrial",,,,,,
